@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4031455327
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tree
+      Dependencies: {}
+    Info_1:
+      Name: endorplanet
+      Dependencies: {}

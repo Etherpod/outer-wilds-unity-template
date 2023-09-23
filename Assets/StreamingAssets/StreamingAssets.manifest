@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1182279777
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: qsbfps
+      Dependencies: {}

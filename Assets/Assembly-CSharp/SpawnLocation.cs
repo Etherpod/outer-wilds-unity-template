@@ -17,4 +17,5 @@ public enum SpawnLocation
 	None = 14,
 	InvisiblePlanet = 15,
 	InvisiblePlanet_Alt = 16,
+	PVPArena = 17,
 }
